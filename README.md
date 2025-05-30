@@ -8,7 +8,7 @@ Here’s the link to my project repository:
 ## 🎥 Demo Video
 
 You can watch my full demo video here:
-👉 *(Insert your video link here once uploaded)*
+[👉 *(Insert your video link here once uploaded)*](https://youtu.be/rHW06HgORFw)
 
 ---
 
